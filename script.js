@@ -37,7 +37,7 @@ Sebagai lulusan yang baru memasuki dunia kerja, saya menyadari bahwa pengalaman 
 Berikut adalah data diri saya:
 Nama          : ${nama}
 No. KTP       : ${ktp}
-Tempat, Tgl Lahir : ${tempatLahir}, ${tanggalLahir}
+Tempat, Tanggal Lahir : ${tempatLahir}, ${tanggalLahir}
 Agama         : ${agama}
 No. Telepon   : ${telepon}
 
